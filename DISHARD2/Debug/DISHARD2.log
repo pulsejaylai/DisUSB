@@ -1,0 +1,17 @@
+﻿Build started 2016/4/14 上午 10:55:23.
+     1>Project "E:\jay\jay\DISHARDWARE\DISHARD2\DISHARD2\DISHARD2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DISHARD2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt DISHARD2Dlg.cpp
+         DISHARD2Dlg.cpp
+     1>e:\jay\jay\dishardware\dishard2\dishard2\dishard2dlg.cpp(458): warning C4101: 'd' : unreferenced local variable
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\jay\jay\DISHARDWARE\DISHARD2\Debug\DISHARD2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\jay\jay\DISHARDWARE\DISHARD2\Debug\DISHARD2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\jay\jay\DISHARDWARE\DISHARD2\Debug\DISHARD2.lib" /MACHINE:X86 Debug\DISHARD2.res
+         Debug\DISHARD2.obj
+         Debug\DISHARD2Dlg.obj
+         Debug\stdafx.obj
+         DISHARD2.vcxproj -> E:\jay\jay\DISHARDWARE\DISHARD2\Debug\DISHARD2.exe
+     1>Done Building Project "E:\jay\jay\DISHARDWARE\DISHARD2\DISHARD2\DISHARD2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.31

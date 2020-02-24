@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  DISHARD2.cpp
+  DISHARD2Dlg.cpp
+d:\jaylai\dishardware\dishard2\dishard2\dishard2dlg.cpp(437): warning C4101: 'UserName': unreferenced local variable
+d:\jaylai\dishardware\dishard2\dishard2\dishard2dlg.cpp(484): warning C4101: 'd': unreferenced local variable
+  Generating code
+  All 203 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DISHARD2.vcxproj -> D:\jaylai\DISHARDWARE\DISHARD2\Release\DISHARD2.exe
